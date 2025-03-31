@@ -6,7 +6,7 @@
 
     <div class="flex justify-center items-center space-x-6 mt-4">
         <div class="flex items-center space-x-2 text-gray-600">
-            <img src="@/assets/google.svg" alt="Google logo" class="w-5 h-5" />
+            <img src="@/assets/svg/google.svg" alt="Google logo" class="w-5 h-5" />
         </div>
 
         <div class="flex items-center space-x-2 text-gray-600">

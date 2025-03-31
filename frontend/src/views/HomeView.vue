@@ -5,6 +5,8 @@ import TrustedBySection from '../components/TrustedBySection.vue';
 import CompaniesComponent from '../components/CompaniesComponent.vue';
 import FuturePillsComponent from '../components/FuturePillsComponent.vue';
 import ProviderShowcase from '../components/ProviderShowcase.vue';
+import SecondProviderShowcase from '../components/SecondProviderShowcase.vue';
+import IntentSignalShowcase from '../components/IntentSignalShowcase.vue';
 </script>
 
 <template>
@@ -15,5 +17,7 @@ import ProviderShowcase from '../components/ProviderShowcase.vue';
     <CompaniesComponent/>
     <FuturePillsComponent/>
     <ProviderShowcase/>
+    <SecondProviderShowcase/>
+    <IntentSignalShowcase/>
   </main>
 </template>

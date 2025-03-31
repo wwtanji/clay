@@ -4,10 +4,10 @@
   >
     <div class="px-4 max-w-screen-lg mx-auto">
       <h1 class="text-4xl sm:text-5xl md:text-6xl font-bold text-black leading-tight">
-        Go to market with unique data <br> —and the ability to act on it
+        Go to market with unique data <br /> —and the ability to act on it
       </h1>
 
-      <p class="mt-5 text-black text-lg sm:text-xl max-w-3xl mx-auto">
+      <p class="mt-5 text-black text-lg sm:text-md max-w-3xl mx-auto">
         Access 100+ premium data sources and AI research engines in one platform,
         then automate growth workflows to turn insights into revenue.
       </p>
@@ -39,5 +39,8 @@ export default defineComponent({
 </script>
 
 <style scoped>
-/* При желании можно добавить кастомные стили здесь */
+img {
+  pointer-events: none;
+  user-select: none;
+}
 </style>

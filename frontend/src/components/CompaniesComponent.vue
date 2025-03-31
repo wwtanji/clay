@@ -1,24 +1,19 @@
 <template>
-  <section class="w-full bg-white py-12">
-    <div class="max-w-screen-xl mx-auto px-4">
+  <section class="w-full bg-white">
+    <div class="max-w-screen-xl mx-auto">
       <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-9 gap-y-8 gap-x-6 items-center justify-items-center">
         <div
           v-for="company in companies"
           :key="company.name"
           class="flex flex-col items-center text-center space-y-2 h-16"
         >
-          <a
-            :href="company.link || '#'"
-            target="_blank"
-            rel="noopener"
-            class="hover:opacity-80 transition duration-150 flex items-center justify-center h-full"
-          >
+          <div class="transition duration-150 flex items-center justify-center h-full">
             <img
               :src="company.logo"
               :alt="company.name"
-              class="h-6 object-contain"
+              class="h-6 object-contain hover:opacity-80"
             />
-          </a>
+          </div>
         </div>
       </div>
     </div>

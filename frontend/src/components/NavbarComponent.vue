@@ -1,15 +1,12 @@
 <template>
   <nav class="w-full bg-white border-b border-gray-200 font-sans">
-    <!-- Общий контейнер без горизонтальных отступов -->
     <div class="flex items-center h-20">
-      <!-- Логотип в самом левом углу -->
       <div class="flex-shrink-0 ml-10">
         <a href="#" class="flex items-center">
           <img src="@/assets/logo/claylogoblack.png" alt="Clay Logo" class="h-8 w-auto" />
         </a>
       </div>
 
-      <!-- Остальные элементы навбара -->
       <div class="flex-1 flex justify-center">
         <ul class="flex items-center space-x-5 text-gray-900 font-semibold ml-15">
           <li class="relative group">

@@ -8,6 +8,7 @@ import ProviderShowcase from '../components/ProviderShowcase.vue';
 import SecondProviderShowcase from '../components/SecondProviderShowcase.vue';
 import IntentSignalShowcase from '../components/IntentSignalShowcase.vue';
 import ActionWorkflowSection from '../components/ActionWorkflowSection.vue';
+import AiFeaturesSection from '../components/AiFeaturesSection.vue';
 </script>
 
 <template>
@@ -21,5 +22,6 @@ import ActionWorkflowSection from '../components/ActionWorkflowSection.vue';
     <SecondProviderShowcase/>
     <IntentSignalShowcase/>
     <ActionWorkflowSection/>
+    <AiFeaturesSection/>
   </main>
 </template>

@@ -7,6 +7,7 @@ import FuturePillsComponent from '../components/FuturePillsComponent.vue';
 import ProviderShowcase from '../components/ProviderShowcase.vue';
 import SecondProviderShowcase from '../components/SecondProviderShowcase.vue';
 import IntentSignalShowcase from '../components/IntentSignalShowcase.vue';
+import ActionWorkflowSection from '../components/ActionWorkflowSection.vue';
 </script>
 
 <template>
@@ -19,5 +20,6 @@ import IntentSignalShowcase from '../components/IntentSignalShowcase.vue';
     <ProviderShowcase/>
     <SecondProviderShowcase/>
     <IntentSignalShowcase/>
+    <ActionWorkflowSection/>
   </main>
 </template>

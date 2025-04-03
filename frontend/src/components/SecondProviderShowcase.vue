@@ -40,8 +40,7 @@
 
         <div class="pt-6 border-t border-white/40 flex justify-between items-center">
           <div class="flex items-center space-x-2">
-            <img src="@/assets/svg/verkada.svg" alt="Verkada Logo" class="h-5" />
-            <span class="text-sm">Verkada</span>
+            <img src="@/assets/svg/verkada.svg" alt="Verkada Logo" class="h-10" />
           </div>
           <a href="#" class="inline-flex items-center text-white font-semibold hover:underline">
             Read case study

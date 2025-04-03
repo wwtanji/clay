@@ -44,7 +44,7 @@
           Login
         </a>
         <a href="#"
-          class="inline-flex items-center bg-black text-white px-5 py-3.5 rounded-full hover:bg-gray-800 transition duration-200">
+          class="inline-flex items-center bg-black text-white px-4 py-2 rounded-lg hover:bg-gray-800 transition duration-200">
           <span class="font-semibold">Sign up</span>
           <svg class="ml-2 h-4 w-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />

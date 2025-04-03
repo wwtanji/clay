@@ -42,8 +42,8 @@
 
         <div class="pt-6 border-t border-white/40 flex justify-between items-center">
           <div class="flex items-center space-x-2">
-            <img src="@/assets/svg/openai.svg" alt="OpenAI Logo" class="h-5" />
-            <span class="text-sm">OpenAI</span>
+            <img src="@/assets/svg/openai.svg" alt="OpenAI Logo" class="h-10" />
+            <span class="text-xl">OpenAI</span>
           </div>
           <a href="#" class="inline-flex items-center text-white font-semibold hover:underline">
             Read case study

@@ -2,9 +2,8 @@
   <section class="bg-white py-24 px-6">
     <div class="max-w-7xl mx-auto flex flex-col lg:flex-row items-center justify-between gap-12">
 
-      <!-- Text Content -->
       <div class="max-w-xl text-center lg:text-left">
-        <h2 class="text-4xl sm:text-5xl font-bold text-gray-900 leading-tight">
+        <h2 class="text-4xl sm:text-4xl font-bold text-gray-900 leading-tight">
           Turn data into action with<br />
           flexible, iterable workflows
         </h2>
@@ -23,10 +22,9 @@
         </div>
       </div>
 
-      <!-- Right Image -->
       <div class="flex justify-center lg:justify-end">
         <img
-          src="../assets/jpg/3d-modern.png"
+          src="../assets/png/potted-flowers.avif"
           alt="Clay flowers"
           class="w-[320px] sm:w-[360px] lg:w-[400px] h-auto object-contain"
         />

@@ -21,16 +21,26 @@
           Our agents (with tens of millions of monthly runs!) can:
         </p>
 
-        <ul class="space-y-1 text-white font-medium text-base">
-          <li>● Flag fraudulent domains</li>
-          <li>● Summarize job posts or financial docs</li>
-          <li>● Create lead scoring models</li>
-          <li>● Clean and format data</li>
-          <li>● Enrich SMBs like hotels, restaurants, auto shops, etc.</li>
+        <ul class="space-y-2">
+          <li class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
+            Flag fraudulent domains
+          </li>
+          <li class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
+            Summarize job posts or financial docs
+          </li>
+          <li class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
+            Create lead scoring models
+          </li>
+          <li class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
+            Clean and format data
+          </li>
+          <li class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
+            Enrich SMBs like hotels, restaurants, auto shops, etc.
+          </li>
         </ul>
 
         <div class="bg-[#6a0d4d] rounded-xl p-6 border border-white/20">
-          <p class="text-sm italic">
+          <p class="text-md">
             "Clay has substantially automated and simplified our research process, which previously
             required manual work from external contractors."
           </p>

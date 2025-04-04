@@ -49,36 +49,36 @@
           <p class="font-semibold text-sm">Adam Wall</p>
           <p class="text-sm text-gray-500 mb-8">Head of Revenue Operations at Anthropic</p>
 
-          <div class="flex flex-col gap-4 mb-10">
+          <div class="flex flex-col gap-10 mb-10">
 
-            <div class="flex gap-5 items-start mt-12">
-              <span class="bg-[#01432F] text-white font-semibold text-sm px-3 py-2 rounded-md min-w-[72px] text-center">
-                4h/week
-              </span>
-              <p class="text-sm leading-snug">
+            <div class="flex items-center gap-4 mt-12">
+            <span class="bg-[#01432F] text-white font-bold text-md px-5 py-2 rounded-md min-w-[72px] text-center whitespace-nowrap">
+              4h/week
+            </span>
+              <p class="text-sm font-semibold">
                 Saved with automating inbound lead enrichment and scoring in Salesforce.
               </p>
             </div>
 
             <div class="flex gap-4 items-start">
-              <span class="bg-[#01432F] text-white font-semibold text-sm px-3 py-2 rounded-md min-w-[72px] text-center">
+              <span class="bg-[#01432F] text-white font-bold text-md px-7.5 py-3 rounded-md min-w-[72px] text-center">
                 100+
               </span>
-              <p class="text-sm leading-snug">100+ providers accessed via Clay</p>
+              <p class="text-sm leading-snug font-semibold">100+ providers accessed via Clay</p>
             </div>
 
             <div class="flex gap-4 items-start">
-              <span class="bg-[#01432F] text-white font-semibold text-sm px-3 py-2 rounded-md min-w-[72px] text-center">
+              <span class="bg-[#01432F] text-white font-bold text-md px-7.5 py-3 rounded-md min-w-[72px] text-center">
                 100%
               </span>
-              <p class="text-sm leading-snug">Automated all SFDC opportunity upserts</p>
+              <p class="text-sm leading-snug font-semibold">Automated all SFDC opportunity upserts</p>
             </div>
 
           </div>
 
         </div>
 
-        <div class="flex justify-between items-center border-t border-gray-300 pt-6">
+        <div class="flex justify-between items-center border-t border-black-300 pt-6">
           <div class="text-lg font-bold tracking-tight">ANTHROP\C</div>
           <a href="#" class="text-sm font-semibold hover:underline flex items-center gap-1">
             Read case study

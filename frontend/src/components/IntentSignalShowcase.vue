@@ -32,11 +32,15 @@
             Never miss a buying signal. Automatically track and act on key customer events—constantly.
           </p>
 
-          <ul class="space-y-2 text-white text-base font-medium list-disc list-inside">
-            <li>Reach out to customers who’ve changed jobs</li>
-            <li>Congratulate customers on promotions</li>
-            <li>Build lists of companies that just raised funding</li>
-            <li>Email prospects based on new product news</li>
+          <ul class="space-y-2 text-white text-base font-medium list-inside">
+            <li class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
+              Reach out to customers who’ve changed jobs</li>
+            <li class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
+              Congratulate customers on promotions</li>
+            <li class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
+              Build lists of companies that just raised funding</li>
+            <li class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
+              Email prospects based on new product news</li>
           </ul>
 
           <div class="flex flex-col sm:flex-row gap-4 pt-4">
@@ -57,8 +61,7 @@
 
           <div class="pt-8 border-t border-white/30 flex justify-between items-center">
             <div class="flex items-center space-x-2 text-white font-bold text-lg">
-              <img src="../assets/svg/logo-coverflex.svg" alt="Coverflex Logo" class="h-6" />
-              <span>coverflex</span>
+              <img src="../assets/svg/cursor.svg" alt="Coverflex Logo" class="h-6" />
             </div>
             <a href="#" class="inline-flex items-center text-white font-semibold hover:underline">
               Read case study

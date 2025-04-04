@@ -1,10 +1,11 @@
 <template>
   <section class="bg-white rounded-3xl py-12 sm:py-20 px-6 text-center overflow-visible">
-    <div class="max-w-5xl mx-auto pt-8 sm:pt-16 pb-20 flex flex-col-reverse lg:flex-row items-center justify-between gap-10">
-      <div class="text-left max-w-xl">
-        <h2 class="text-4xl sm:text-5xl font-bold text-black leading-tight">
-          Boost your enrichment coverage<br />
-          <span class="text-gray-500">—including unique data your competitors miss</span>
+    <div class="max-w-7xl mx-auto pt-8 sm:pt-16 pb-20 flex flex-col-reverse lg:flex-row items-center justify-between gap-10">
+      <div class="text-left lg:pl-8 max-w-xl w-full">
+        <h2 class="text-4xl sm:text-4xl font-bold text-black leading-tight">
+          <span class="block">Boost your enrichment</span>
+          <span class="block text-gray-500">coverage —including unique</span>
+          <span class="block text-gray-500">data your competitors miss</span>
         </h2>
         <button
           class="mt-8 inline-flex items-center bg-black text-white font-semibold px-6 py-3 rounded-md hover:bg-gray-800 transition duration-200 cursor-pointer"
@@ -20,6 +21,10 @@
             <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
           </svg>
         </button>
+      </div>
+
+      <div class="w-full lg:w-1/2 flex justify-center">
+        <img src="../assets/png/watering_can.avif" alt="Enrichment graphic" class="max-h-80 object-contain" />
       </div>
     </div>
   </section>

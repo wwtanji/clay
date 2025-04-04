@@ -5,10 +5,11 @@ import TrustedBySection from '../components/TrustedBySection.vue';
 import CompaniesComponent from '../components/CompaniesComponent.vue';
 import FuturePillsComponent from '../components/FuturePillsComponent.vue';
 import ProviderShowcase from '../components/ProviderShowcase.vue';
-import SecondProviderShowcase from '../components/SecondProviderShowcase.vue';
 import IntentSignalShowcase from '../components/IntentSignalShowcase.vue';
-import ActionWorkflowSection from '../components/ActionWorkflowSection.vue';
+import TurnDataComponent from '../components/TurnDataComponent.vue';
 import AiFeaturesSection from '../components/AiFeaturesSection.vue';
+import SecondShowcase from '../components/SecondShowcase.vue';
+import Claysdata from '../components/Claysdata.vue';
 </script>
 
 <template>
@@ -19,9 +20,10 @@ import AiFeaturesSection from '../components/AiFeaturesSection.vue';
     <CompaniesComponent/>
     <FuturePillsComponent/>
     <ProviderShowcase/>
-    <SecondProviderShowcase/>
+    <SecondShowcase/>
     <IntentSignalShowcase/>
-    <ActionWorkflowSection/>
+    <TurnDataComponent/>
     <AiFeaturesSection/>
+    <Claysdata/>
   </main>
 </template>

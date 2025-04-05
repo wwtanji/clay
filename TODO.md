@@ -1,12 +1,7 @@
 # TODO
 
-- [ ] Dorobit `Clay'sData` component
-- [ ] Vytvorit od nuly `Consolidate your GTM stack` komponent
-- [ ] Vytvorit `4Flowers` component
-- [ ] Pridat sekciu **Customers** (slider)
-- [ ] Pridat `Footer`
-- [ ] V navigacii:
-  - [ ] Drop-down menu
-  - [ ] Login view
-  - [ ] Registration view
-  - [ ] Get a demo view
+- [x] Dorobit `Clay'sData` component
+- [x] Vytvorit od nuly `Consolidate your GTM stack` komponent
+- [x] Vytvorit `4Flowers` component
+- [x] Pridat sekciu **Customers** (slider)
+- [x] Pridat `Footer`

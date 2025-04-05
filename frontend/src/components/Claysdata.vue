@@ -6,7 +6,6 @@
           Clay’s data + workflows <br />
           <span class="text-[#6B7280] font-semibold">unlock any growth use case</span>
         </h2>
-
         <p class="text-[#4B5563] text-base sm:text-lg max-w-md mt-4">
           Use the best data foundation alongside flexible workflows to turn
           any growth idea into reality—from CRM enrichment to intent-based
@@ -14,7 +13,7 @@
         </p>
 
         <div class="relative mt-12 flex flex-col sm:flex-row items-center sm:items-start sm:gap-6 gap-6">
-          <div class="relative w-16 h-16 sm:w-20 sm:h-20 shrink-0">
+          <div class="relative w-16 h-16 sm:w-20 sm:h-15 shrink-0 mt-2">
             <img src="../assets/video/circle.avif" alt="Main Icon" class="w-full h-full z-10 relative" />
           </div>
 

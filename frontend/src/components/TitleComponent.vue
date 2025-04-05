@@ -2,7 +2,6 @@
   <section
     class="relative w-full max-w-[1600px] mx-auto bg-stone-100 rounded-[40px] py-14 sm:py-24 text-center overflow-hidden"
   >
-    <!-- Content -->
     <div class="relative z-10 px-4 max-w-screen-lg mx-auto">
       <h1 class="text-4xl sm:text-5xl md:text-6xl font-bold text-black leading-tight">
         Go to market with unique data <br />

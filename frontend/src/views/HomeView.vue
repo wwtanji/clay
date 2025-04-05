@@ -10,6 +10,10 @@ import TurnDataComponent from '../components/TurnDataComponent.vue';
 import AiFeaturesSection from '../components/AiFeaturesSection.vue';
 import SecondShowcase from '../components/SecondShowcase.vue';
 import Claysdata from '../components/Claysdata.vue';
+import GTMstackComponent from '../components/GTMstackComponent.vue';
+import SecurityFlowers from '../components/SecurityFlowers.vue';
+import TestimonialSlider from '../components/Testimonial.vue';
+import FooterSection from '../components/Footer/FooterSection.vue';
 </script>
 
 <template>
@@ -25,5 +29,9 @@ import Claysdata from '../components/Claysdata.vue';
     <TurnDataComponent/>
     <AiFeaturesSection/>
     <Claysdata/>
+    <GTMstackComponent/>
+    <SecurityFlowers/>
+    <TestimonialSlider/>
+    <FooterSection/>
   </main>
 </template>

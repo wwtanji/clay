@@ -14,10 +14,10 @@
 
         <div class="relative mt-12 flex flex-col sm:flex-row items-center sm:items-start sm:gap-6 gap-6">
           <div class="relative w-16 h-16 sm:w-20 sm:h-15 shrink-0 mt-2">
-            <img src="../assets/video/circle.avif" alt="Main Icon" class="w-full h-full z-10 relative" />
+            <img src="../assets/video/circle.avif" alt="Main Icon" class="w-full h-full z-10 relative mt-4" />
           </div>
 
-          <img src="../assets/svg/leftstucture.svg" alt="Left" class="hidden sm:block h-[80px]" />
+          <img src="../assets/svg/leftstucture.svg" alt="Left" class="hidden sm:block h-[80px] mt-4" />
 
           <div class="flex flex-col gap-4 sm:gap-6 mt-4 sm:mt-0">
             <div class="bg-white border border-gray-200 rounded-xl px-4 py-3 shadow-sm flex items-center gap-3 w-full sm:w-[230px]">
@@ -30,7 +30,7 @@
             </div>
           </div>
 
-          <img src="../assets/svg/leftstucture.svg" alt="Right" class="hidden sm:block h-[80px] rotate-180" />
+          <img src="../assets/svg/leftstucture.svg" alt="Right" class="hidden sm:block h-[80px] rotate-180 mt-4" />
         </div>
       </div>
 

@@ -19,9 +19,7 @@
         </h2>
 
         <p class="text-white/90 text-base">
-          Complete GTM coverage demands data from multiple premium sources. On Clay,
-          connect with vetted data providers for any GTM category—and use your API keys
-          with existing providers for free. That includes…
+
         </p>
 
         <ul class="space-y-2">

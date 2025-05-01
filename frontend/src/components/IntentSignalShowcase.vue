@@ -6,21 +6,25 @@
           <div class="bg-[#01432F] rounded-t-lg p-6 shadow-xl relative overflow-hidden">
             <div class="flex flex-col items-center gap-4">
               <img src="../assets/svg/tsunoda.svg" alt="Tsunoda" class="w-[220px] z-30 relative" />
-              <img src="../assets/svg/table.svg" alt="Peter" class="w-[220px] z-20 relative -mt-4" />
-              <img src="../assets/svg/melissa.svg" alt="Melissa" class="w-[220px] z-10 relative -mt-4" />
+              <img
+                src="../assets/svg/table.svg"
+                alt="Peter"
+                class="w-[220px] z-20 relative -mt-4" />
+              <img
+                src="../assets/svg/melissa.svg"
+                alt="Melissa"
+                class="w-[220px] z-10 relative -mt-4" />
             </div>
           </div>
 
-
-    <div class="bg-white px-6 py-16 rounded-b-4xl">
-      <div class="max-w-7xl mx-auto">
-        <img
-          src="../assets/svg/table-green.svg"
-          alt="Clay Table"
-          class="rounded-xl w-full h-auto"
-        />
-      </div>
-    </div>
+          <div class="bg-white px-6 py-16 rounded-b-4xl">
+            <div class="max-w-7xl mx-auto">
+              <img
+                src="../assets/svg/table-green.svg"
+                alt="Clay Table"
+                class="rounded-xl w-full h-auto" />
+            </div>
+          </div>
         </div>
 
         <div class="w-full lg:w-1/2 max-w-xl space-y-6">
@@ -29,18 +33,27 @@
             with real-time intent signals
           </h2>
           <p class="text-white/90 text-base">
-            Never miss a buying signal. Automatically track and act on key customer events—constantly.
+            Never miss a buying signal. Automatically track and act on key customer
+            events—constantly.
           </p>
 
           <ul class="space-y-2 text-white text-base font-medium list-inside">
-            <li class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
-              Reach out to customers who’ve changed jobs</li>
-            <li class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
-              Congratulate customers on promotions</li>
-            <li class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
-              Build lists of companies that just raised funding</li>
-            <li class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
-              Email prospects based on new product news</li>
+            <li
+              class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
+              Reach out to customers who’ve changed jobs
+            </li>
+            <li
+              class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
+              Congratulate customers on promotions
+            </li>
+            <li
+              class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
+              Build lists of companies that just raised funding
+            </li>
+            <li
+              class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
+              Email prospects based on new product news
+            </li>
           </ul>
 
           <div class="flex flex-col sm:flex-row gap-4 pt-4">
@@ -70,8 +83,7 @@
                 fill="none"
                 stroke="currentColor"
                 stroke-width="2"
-                viewBox="0 0 24 24"
-              >
+                viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
               </svg>
             </a>
@@ -79,22 +91,20 @@
         </div>
       </div>
     </div>
-
-
   </section>
 </template>
 
 <script lang="ts">
-import { defineComponent } from 'vue';
+  import { defineComponent } from 'vue';
 
-export default defineComponent({
-  name: 'IntentSignalSection'
-});
+  export default defineComponent({
+    name: 'IntentSignalSection',
+  });
 </script>
 
 <style scoped>
-img {
-  max-width: 100%;
-  display: block;
-}
+  img {
+    max-width: 100%;
+    display: block;
+  }
 </style>

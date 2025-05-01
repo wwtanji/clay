@@ -8,33 +8,38 @@
           muted
           loop
           playsinline
-          class="rounded-3xl shadow-xl w-full h-auto"
-        ></video>
+          class="rounded-3xl shadow-xl w-full h-auto"></video>
       </div>
 
       <div class="w-full lg:w-1/2 max-w-xl space-y-6">
         <h2 class="text-3xl sm:text-4xl font-bold">
-          Get unique data points<br /> with AI research agents
+          Get unique data points<br />
+          with AI research agents
         </h2>
         <p class="text-white/90 text-base">
-          Automate manual research at scale to uncover data that traditional providers miss.
-          Our agents (with tens of millions of monthly runs!) can:
+          Automate manual research at scale to uncover data that traditional providers miss. Our
+          agents (with tens of millions of monthly runs!) can:
         </p>
 
         <ul class="space-y-2">
-          <li class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
+          <li
+            class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
             Flag fraudulent domains
           </li>
-          <li class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
+          <li
+            class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
             Summarize job posts or financial docs
           </li>
-          <li class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
+          <li
+            class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
             Create lead scoring models
           </li>
-          <li class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
+          <li
+            class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
             Clean and format data
           </li>
-          <li class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
+          <li
+            class="relative pl-5 text-white before:content-['•'] before:absolute before:left-0 before:text-black before:text-xl">
             Enrich SMBs like hotels, restaurants, auto shops, etc.
           </li>
         </ul>
@@ -59,8 +64,7 @@
               fill="none"
               stroke="currentColor"
               stroke-width="2"
-              viewBox="0 0 24 24"
-            >
+              viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
             </svg>
           </a>
@@ -74,7 +78,7 @@
 import { defineComponent } from 'vue';
 
 export default defineComponent({
-  name: 'AIResearchShowcase'
+  name: 'AIResearchShowcase',
 });
 </script>
 
